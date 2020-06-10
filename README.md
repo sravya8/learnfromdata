@@ -6,7 +6,7 @@
 
 https://sravya8.github.io/learnfromdata/
 
-# My Blog
+# Dabblings while programming to learn from data
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
